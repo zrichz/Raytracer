@@ -1,0 +1,25 @@
+# colored lights
+
+fov 60
+
+# blue background
+
+background 0.2 0.2 1
+
+# one light
+
+light 10 10 8  .7 .7 .7
+
+
+# triangle
+
+surface  .8 .8 .8  .2 .2 .2  0.4 0.4 0.4  1  0
+
+begin
+vertex 0 1 	-3
+vertex 1 0  -3
+vertex -1 0 -3
+end
+
+write i4.png
+
