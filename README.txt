@@ -2,7 +2,7 @@ Ray Tracer in Processing
 Author: Monet Tomioka
 Date: 3/13/2015
 
-This ray tracer reads .cli files in /data folder. "cli" stands for "command language interpreter". Below is the grammar for the .cli files made by professor Greg Turk of Georgia Institute of Technology.
+This ray tracer reads .cli files in /data folder. "cli" stands for "command language interpreter". Below is the grammar for the .cli files made by professor Greg Turk of Georgia Institute of Technology. Sample .cli files and their outputs (.png images) are provided.
 
 fov angle: Specifies the field of view (in degrees) for a perspective projection. The viewer's eye position  is assumed to be at the origin and to be looking down the negative z-axis (giving us a right-handed coordinate system). The y-axis points up.
 
