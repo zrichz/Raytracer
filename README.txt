@@ -1,6 +1,8 @@
 Ray Tracer in Processing
 Author: Monet Tomioka
-Date: 3/13/2015
+Date: 2/1/2016
+
+This is a ray tracer written in the Processing language, a Java-based open source language with IDE that excels in producing graphics. Download the Processing language & IDE at their website (https://www.processing.org).
 
 This ray tracer reads .cli files in /data folder. "cli" stands for "command language interpreter". Below is the grammar for the .cli files made by professor Greg Turk of Georgia Institute of Technology. Sample .cli files and their outputs (.png images) are provided.
 
